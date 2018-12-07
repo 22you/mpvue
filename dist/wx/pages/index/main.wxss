@@ -1,0 +1,20 @@
+
+.message.data-v-5eca2e54 {
+  color: red;
+  padding: "20rpx";
+  text-align: "center";
+}
+.click-counter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2rpx solid red;
+  background-color: #fff;
+  padding: 20rpx;
+}
+.counter-num,
+.counter-btn,
+.counter-reset-btn {
+  flex: 1;
+  margin: 6rpx;
+}

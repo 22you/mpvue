@@ -1,0 +1,5 @@
+<import src="/components/click-counter.vue.wxml" /><template name="3d0f010c">
+  <view class="_div data-v-5eca2e54 container" bindtap="handleProxy" data-eventid="{{'1'}}" data-comkey="{{$k}}">
+    <view class="_div data-v-5eca2e54 message">{{msg}}</view> <template bindclicknum="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}" data="{{...$root[$kk+'0'], $root}}" is="3a171bec"></template>
+  </view>
+</template>
